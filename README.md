@@ -100,7 +100,7 @@ removal, BLS period search, and phase-folded transit recovery.
 
 ### 02 — Gaia DR3 Open Cluster Color-Magnitude Diagram
 **Domain:** Catalog analysis, stellar populations  
-**Status:** In Progress  
+**Status:** COMPLETE
 **Data source:** ESA Gaia DR3 archive via astroquery  
 **Target:** Hyades open cluster (closest cluster to Earth, ~47 pc)
 
